@@ -1,0 +1,22 @@
+{
+  "name": "upload-large-folder-ipfs",
+  "version": "1.0.0",
+  "description": "The repos includes script for uploading bulk files in a directory to ipfs using nft.storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ipfs",
+    "nft",
+    "nft.storage",
+    "blockchain"
+  ],
+  "author": "toptal126",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "files-from-path": "^0.2.6",
+    "nft.storage": "^7.0.0"
+  }
+}
