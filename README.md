@@ -1,4 +1,4 @@
-# EIP712 Implementation with NodeJS
+# Uploading Foloder to IPFS using nft.storage
 
 This repository includes script for uploading bulk files in a directory to ipfs using nft.storage
 
